@@ -29,7 +29,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -122,43 +122,43 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MVDataOutlinerDetailExpr",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MVDataOverlayType",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MVDataPreviewWidget",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MVDataOutlinerLeafNameFn",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MVDataOutlinerLeafColorFn",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MVDataOutlinerLeafDetailFn",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MVDataVirtualNodeFactoryFn",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MVDataPreLoadFixupFn",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MVDataPostSaveFixupFn",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -168,7 +168,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -240,11 +240,11 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MPropertyElementNameFn",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -284,11 +284,11 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MPropertyElementNameFn",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -303,11 +303,11 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MPropertyElementNameFn",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -326,7 +326,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -345,11 +345,11 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MPropertyElementNameFn",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -397,11 +397,11 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MPropertyElementNameFn",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -416,11 +416,11 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           },
           {
             "name": "MPropertyElementNameFn",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -435,7 +435,7 @@
         "metadata": [
           {
             "name": "MPropertyElementNameFn",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -447,7 +447,7 @@
         "metadata": [
           {
             "name": "MPropertyElementNameFn",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -478,7 +478,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -496,7 +496,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -510,7 +510,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -525,7 +525,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -539,7 +539,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -553,7 +553,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -566,7 +566,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0

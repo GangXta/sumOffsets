@@ -9,7 +9,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -21,7 +21,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -33,7 +33,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -45,7 +45,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
@@ -84,7 +84,7 @@
         "metadata": [
           {
             "name": "MResourceTypeForInfoType",
-            "type": "Unknown"
+            "type": int
           }
         ],
         "parent": 0
