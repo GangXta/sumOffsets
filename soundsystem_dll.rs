@@ -178,7 +178,7 @@ pub mod cs2_dumper {
             // MGetKV3ClassDefaults
             // MPropertyFriendlyName
             // MPropertyDescription
-            pub mod CVoiceContainerNull {
+            pub mod CVoiceContainer0 {
             }
             // Parent: None
             // Field count: 3

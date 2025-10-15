@@ -180,7 +180,7 @@ namespace cs2_dumper {
             // MGetKV3ClassDefaults
             // MPropertyFriendlyName
             // MPropertyDescription
-            namespace CVoiceContainerNull {
+            namespace CVoiceContainer0 {
             }
             // Parent: None
             // Field count: 3

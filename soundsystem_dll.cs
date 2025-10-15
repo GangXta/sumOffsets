@@ -175,7 +175,7 @@ namespace CS2Dumper.Schemas {
         // MGetKV3ClassDefaults
         // MPropertyFriendlyName
         // MPropertyDescription
-        public static class CVoiceContainerNull {
+        public static class CVoiceContainer0 {
         }
         // Parent: None
         // Field count: 3
