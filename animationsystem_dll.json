@@ -14,10 +14,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "AimMatrixOpFixedSettings_t": {
         "fields": {
@@ -38,10 +38,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "AnimComponentID": {
         "fields": {
@@ -50,10 +50,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "AnimNodeID": {
         "fields": {
@@ -62,10 +62,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "AnimNodeOutputID": {
         "fields": {
@@ -74,10 +74,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "AnimParamID": {
         "fields": {
@@ -86,10 +86,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "AnimScriptHandle": {
         "fields": {
@@ -98,10 +98,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "AnimStateID": {
         "fields": {
@@ -110,10 +110,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "AnimTagID": {
         "fields": {
@@ -122,10 +122,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "AnimationDecodeDebugDumpElement_t": {
         "fields": {
@@ -139,10 +139,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "AnimationDecodeDebugDump_t": {
         "fields": {
@@ -152,10 +152,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "AnimationSnapshotBase_t": {
         "fields": {
@@ -172,10 +172,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "AnimationSnapshot_t": {
         "fields": {
@@ -185,17 +185,17 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "AttachmentHandle_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "BlendItem_t": {
         "fields": {
@@ -209,10 +209,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "BoneDemoCaptureSettings_t": {
         "fields": {
@@ -227,10 +227,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CActionComponentUpdater": {
         "fields": {
@@ -239,10 +239,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAddUpdateNode": {
         "fields": {
@@ -255,10 +255,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAimCameraUpdateNode": {
         "fields": {
@@ -276,10 +276,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAimConstraint": {
         "fields": {
@@ -289,10 +289,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAimMatrixUpdateNode": {
         "fields": {
@@ -306,20 +306,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimActionUpdater": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimActivity": {
         "fields": {
@@ -331,10 +331,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimAttachment": {
         "fields": {
@@ -347,10 +347,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimBone": {
         "fields": {
@@ -365,10 +365,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimBoneDifference": {
         "fields": {
@@ -381,10 +381,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimComponentUpdater": {
         "fields": {
@@ -396,20 +396,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimCycle": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimData": {
         "fields": {
@@ -422,10 +422,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimDataChannelDesc": {
         "fields": {
@@ -442,10 +442,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimDecoder": {
         "fields": {
@@ -456,10 +456,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimDemoCaptureSettings": {
         "fields": {
@@ -482,10 +482,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimDesc": {
         "fields": {
@@ -508,10 +508,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimDesc_Flag": {
         "fields": {
@@ -527,10 +527,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimEncodeDifference": {
         "fields": {
@@ -545,10 +545,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimEncodedFrames": {
         "fields": {
@@ -561,17 +561,17 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimEnum": {
         "fields": {
           "m_value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CAnimEventDefinition": {
         "fields": {
@@ -586,10 +586,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimFoot": {
         "fields": {
@@ -602,10 +602,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimFrameBlockAnim": {
         "fields": {
@@ -616,10 +616,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimFrameSegment": {
         "fields": {
@@ -631,10 +631,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimGraphDebugReplay": {
         "fields": {
@@ -647,10 +647,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimGraphModelBinding": {
         "fields": {
@@ -660,10 +660,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimGraphNetworkSettings": {
         "fields": {
@@ -672,24 +672,24 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimGraphSettingsGroup": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimGraphSettingsManager": {
         "fields": {
@@ -698,10 +698,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimInputDamping": {
         "fields": {
@@ -712,14 +712,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimKeyData": {
         "fields": {
@@ -733,10 +733,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimLocalHierarchy": {
         "fields": {
@@ -750,10 +750,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimMorphDifference": {
         "fields": {
@@ -762,10 +762,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimMotorUpdaterBase": {
         "fields": {
@@ -775,10 +775,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimMovement": {
         "fields": {
@@ -793,10 +793,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimNodePath": {
         "fields": {
@@ -806,10 +806,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimParamHandle": {
         "fields": {
@@ -819,10 +819,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimParamHandleMap": {
         "fields": {
@@ -831,10 +831,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimParameterBase": {
         "fields": {
@@ -849,10 +849,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimParameterManagerUpdater": {
         "fields": {
@@ -866,10 +866,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimReplayFrame": {
         "fields": {
@@ -882,10 +882,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimScriptComponentUpdater": {
         "fields": {
@@ -894,10 +894,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimScriptManager": {
         "fields": {
@@ -906,10 +906,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimSequenceParams": {
         "fields": {
@@ -919,10 +919,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimSkeleton": {
         "fields": {
@@ -938,10 +938,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimStateMachineUpdater": {
         "fields": {
@@ -952,10 +952,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimTagBase": {
         "fields": {
@@ -968,10 +968,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimTagManagerUpdater": {
         "fields": {
@@ -980,10 +980,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimUpdateNodeBase": {
         "fields": {
@@ -994,10 +994,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimUpdateNodeRef": {
         "fields": {
@@ -1006,10 +1006,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimUpdateSharedData": {
         "fields": {
@@ -1027,10 +1027,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimUser": {
         "fields": {
@@ -1040,10 +1040,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimUserDifference": {
         "fields": {
@@ -1053,10 +1053,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimationGraphVisualizerAxis": {
         "fields": {
@@ -1066,10 +1066,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimationGraphVisualizerLine": {
         "fields": {
@@ -1080,10 +1080,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimationGraphVisualizerPie": {
         "fields": {
@@ -1095,10 +1095,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimationGraphVisualizerPrimitiveBase": {
         "fields": {
@@ -1109,10 +1109,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimationGraphVisualizerSphere": {
         "fields": {
@@ -1123,10 +1123,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimationGraphVisualizerText": {
         "fields": {
@@ -1137,10 +1137,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAnimationGroup": {
         "fields": {
@@ -1156,10 +1156,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAttachment": {
         "fields": {
@@ -1175,10 +1175,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAudioAnimTag": {
         "fields": {
@@ -1193,14 +1193,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBaseConstraint": {
         "fields": {
@@ -1212,10 +1212,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBinaryUpdateNode": {
         "fields": {
@@ -1229,20 +1229,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBindPoseUpdateNode": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBlend2DUpdateNode": {
         "fields": {
@@ -1265,10 +1265,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBlendCurve": {
         "fields": {
@@ -1278,10 +1278,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBlendUpdateNode": {
         "fields": {
@@ -1302,20 +1302,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBlockSelectionMetricEvaluator": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBodyGroupAnimTag": {
         "fields": {
@@ -1325,14 +1325,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBodyGroupSetting": {
         "fields": {
@@ -1342,28 +1342,28 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyElementNameFn",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBoneConstraintBase": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBoneConstraintDotToMorph": {
         "fields": {
@@ -1375,10 +1375,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBoneConstraintPoseSpaceBone": {
         "fields": {
@@ -1387,10 +1387,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBoneConstraintPoseSpaceBone__Input_t": {
         "fields": {
@@ -1398,7 +1398,7 @@
           "m_outputTransformList": 16
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CBoneConstraintPoseSpaceMorph": {
         "fields": {
@@ -1411,10 +1411,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBoneConstraintPoseSpaceMorph__Input_t": {
         "fields": {
@@ -1422,7 +1422,7 @@
           "m_outputWeightList": 16
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CBoneConstraintRbf": {
         "fields": {
@@ -1432,10 +1432,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBoneMaskUpdateNode": {
         "fields": {
@@ -1450,10 +1450,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBonePositionMetricEvaluator": {
         "fields": {
@@ -1462,10 +1462,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBoneVelocityMetricEvaluator": {
         "fields": {
@@ -1474,10 +1474,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CBoolAnimParameter": {
         "fields": {
@@ -1486,14 +1486,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CCPPScriptComponentUpdater": {
         "fields": {
@@ -1502,10 +1502,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CCachedPose": {
         "fields": {
@@ -1517,10 +1517,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CChoiceUpdateNode": {
         "fields": {
@@ -1538,20 +1538,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CChoreoUpdateNode": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CClothSettingsAnimTag": {
         "fields": {
@@ -1563,14 +1563,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CCompressorGroup": {
         "fields": {
@@ -1593,7 +1593,7 @@
           "m_vectorCompressor": 248
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CConcreteAnimParameter": {
         "fields": {
@@ -1607,10 +1607,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CConstraintSlave": {
         "fields": {
@@ -1623,10 +1623,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CConstraintTarget": {
         "fields": {
@@ -1640,30 +1640,30 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CCurrentRotationVelocityMetricEvaluator": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CCurrentVelocityMetricEvaluator": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CCycleBase": {
         "fields": {
@@ -1672,10 +1672,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CCycleControlClipUpdateNode": {
         "fields": {
@@ -1689,10 +1689,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CCycleControlUpdateNode": {
         "fields": {
@@ -1703,10 +1703,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDampedPathAnimMotorUpdater": {
         "fields": {
@@ -1721,10 +1721,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDampedValueComponentUpdater": {
         "fields": {
@@ -1733,10 +1733,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDampedValueUpdateItem": {
         "fields": {
@@ -1747,10 +1747,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDemoSettingsComponentUpdater": {
         "fields": {
@@ -1759,10 +1759,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDirectPlaybackTagData": {
         "fields": {
@@ -1772,10 +1772,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDirectPlaybackUpdateNode": {
         "fields": {
@@ -1786,10 +1786,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDirectionalBlendUpdateNode": {
         "fields": {
@@ -1805,10 +1805,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDistanceRemainingMetricEvaluator": {
         "fields": {
@@ -1823,10 +1823,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDrawCullingData": {
         "fields": {
@@ -1836,20 +1836,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CEditableMotionGraph": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CEmitTagActionUpdater": {
         "fields": {
@@ -1859,10 +1859,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CEnumAnimParameter": {
         "fields": {
@@ -1873,14 +1873,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CExpressionActionUpdater": {
         "fields": {
@@ -1891,10 +1891,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFlexController": {
         "fields": {
@@ -1906,10 +1906,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFlexDesc": {
         "fields": {
@@ -1918,10 +1918,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFlexOp": {
         "fields": {
@@ -1931,10 +1931,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFlexRule": {
         "fields": {
@@ -1944,10 +1944,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFloatAnimParameter": {
         "fields": {
@@ -1959,14 +1959,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFollowAttachmentUpdateNode": {
         "fields": {
@@ -1975,10 +1975,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFollowPathUpdateNode": {
         "fields": {
@@ -1999,10 +1999,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFollowTargetUpdateNode": {
         "fields": {
@@ -2013,10 +2013,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootAdjustmentUpdateNode": {
         "fields": {
@@ -2033,20 +2033,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootCycle": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootCycleDefinition": {
         "fields": {
@@ -2063,10 +2063,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootCycleMetricEvaluator": {
         "fields": {
@@ -2075,10 +2075,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootDefinition": {
         "fields": {
@@ -2095,10 +2095,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootFallAnimTag": {
         "fields": {
@@ -2107,14 +2107,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootLockUpdateNode": {
         "fields": {
@@ -2142,10 +2142,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootMotion": {
         "fields": {
@@ -2156,10 +2156,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootPinningUpdateNode": {
         "fields": {
@@ -2171,10 +2171,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootPositionMetricEvaluator": {
         "fields": {
@@ -2184,10 +2184,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootStepTriggerUpdateNode": {
         "fields": {
@@ -2197,10 +2197,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootStride": {
         "fields": {
@@ -2210,10 +2210,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootTrajectories": {
         "fields": {
@@ -2222,10 +2222,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootTrajectory": {
         "fields": {
@@ -2236,10 +2236,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFootstepLandedAnimTag": {
         "fields": {
@@ -2251,14 +2251,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFutureFacingMetricEvaluator": {
         "fields": {
@@ -2268,10 +2268,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CFutureVelocityMetricEvaluator": {
         "fields": {
@@ -2283,10 +2283,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CHandshakeAnimTagBase": {
         "fields": {
@@ -2295,10 +2295,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CHitBox": {
         "fields": {
@@ -2319,10 +2319,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CHitBoxSet": {
         "fields": {
@@ -2334,10 +2334,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CHitBoxSetList": {
         "fields": {
@@ -2346,10 +2346,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CHitReactUpdateNode": {
         "fields": {
@@ -2365,20 +2365,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CInputStreamUpdateNode": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CIntAnimParameter": {
         "fields": {
@@ -2389,14 +2389,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CJiggleBoneUpdateNode": {
         "fields": {
@@ -2405,10 +2405,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CJumpHelperUpdateNode": {
         "fields": {
@@ -2424,10 +2424,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CLODComponentUpdater": {
         "fields": {
@@ -2436,20 +2436,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CLeafUpdateNode": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CLeanMatrixUpdateNode": {
         "fields": {
@@ -2467,10 +2467,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CLookAtUpdateNode": {
         "fields": {
@@ -2484,10 +2484,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CLookComponentUpdater": {
         "fields": {
@@ -2504,10 +2504,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMaterialAttributeAnimTag": {
         "fields": {
@@ -2519,14 +2519,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMaterialDrawDescriptor": {
         "fields": {
@@ -2551,10 +2551,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMaterialDrawDescriptor__RigidMeshPart_t": {
         "fields": {
@@ -2566,10 +2566,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMeshletDescriptor": {
         "fields": {
@@ -2583,10 +2583,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CModelConfig": {
         "fields": {
@@ -2598,10 +2598,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CModelConfigElement": {
         "fields": {
@@ -2611,10 +2611,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CModelConfigElement_AttachedModel": {
         "fields": {
@@ -2636,10 +2636,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CModelConfigElement_Command": {
         "fields": {
@@ -2649,10 +2649,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CModelConfigElement_RandomColor": {
         "fields": {
@@ -2661,10 +2661,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CModelConfigElement_RandomPick": {
         "fields": {
@@ -2674,10 +2674,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CModelConfigElement_SetBodygroup": {
         "fields": {
@@ -2687,10 +2687,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CModelConfigElement_SetBodygroupOnAttachedModels": {
         "fields": {
@@ -2700,10 +2700,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CModelConfigElement_SetMaterialGroup": {
         "fields": {
@@ -2712,10 +2712,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CModelConfigElement_SetMaterialGroupOnAttachedModels": {
         "fields": {
@@ -2724,10 +2724,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CModelConfigElement_SetRenderColor": {
         "fields": {
@@ -2736,10 +2736,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CModelConfigElement_UserPick": {
         "fields": {
@@ -2748,10 +2748,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CModelConfigList": {
         "fields": {
@@ -2762,10 +2762,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMoodVData": {
         "fields": {
@@ -2776,14 +2776,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MVDataOverlayType",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMorphBundleData": {
         "fields": {
@@ -2795,10 +2795,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMorphConstraint": {
         "fields": {
@@ -2810,10 +2810,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMorphData": {
         "fields": {
@@ -2823,10 +2823,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMorphRectData": {
         "fields": {
@@ -2839,10 +2839,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMorphSetData": {
         "fields": {
@@ -2858,10 +2858,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMotionDataSet": {
         "fields": {
@@ -2871,10 +2871,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMotionGraph": {
         "fields": {
@@ -2889,10 +2889,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMotionGraphConfig": {
         "fields": {
@@ -2905,10 +2905,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMotionGraphGroup": {
         "fields": {
@@ -2921,10 +2921,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMotionGraphUpdateNode": {
         "fields": {
@@ -2933,10 +2933,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMotionMatchingUpdateNode": {
         "fields": {
@@ -2967,10 +2967,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMotionMetricEvaluator": {
         "fields": {
@@ -2982,10 +2982,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMotionNode": {
         "fields": {
@@ -2995,10 +2995,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMotionNodeBlend1D": {
         "fields": {
@@ -3008,10 +3008,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMotionNodeSequence": {
         "fields": {
@@ -3022,10 +3022,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMotionSearchDB": {
         "fields": {
@@ -3036,10 +3036,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMotionSearchNode": {
         "fields": {
@@ -3052,10 +3052,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMovementComponentUpdater": {
         "fields": {
@@ -3071,24 +3071,24 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMovementHandshakeAnimTag": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CMoverUpdateNode": {
         "fields": {
@@ -3108,10 +3108,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNPCPhysicsHull": {
         "fields": {
@@ -3127,18 +3127,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MFgdHelper",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MFgdHelper",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNewParticleEffect": {
         "fields": {
@@ -3177,12 +3177,12 @@
           "m_vecAggregationCenter": 152
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmAdditiveBlendTask": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmAndNode__CDefinition": {
         "fields": {
@@ -3191,10 +3191,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmAnimationPoseNode__CDefinition": {
         "fields": {
@@ -3207,10 +3207,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmBitFlags": {
         "fields": {
@@ -3219,10 +3219,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmBlend1DNode__CDefinition": {
         "fields": {
@@ -3231,10 +3231,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmBlend2DNode__CDefinition": {
         "fields": {
@@ -3249,20 +3249,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmBlendTask": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmBlendTaskBase": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmBodyGroupEvent": {
         "fields": {
@@ -3271,10 +3271,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmBoneMaskBlendNode__CDefinition": {
         "fields": {
@@ -3285,10 +3285,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmBoneMaskNode__CDefinition": {
         "fields": {
@@ -3297,10 +3297,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmBoneMaskSelectorNode__CDefinition": {
         "fields": {
@@ -3314,15 +3314,15 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmBoneMaskValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmBoneWeightList": {
         "fields": {
@@ -3333,15 +3333,15 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmBoolValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmCachedBoolNode__CDefinition": {
         "fields": {
@@ -3351,10 +3351,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmCachedFloatNode__CDefinition": {
         "fields": {
@@ -3364,10 +3364,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmCachedIDNode__CDefinition": {
         "fields": {
@@ -3377,20 +3377,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmCachedPoseReadTask": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmCachedPoseWriteTask": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmCachedTargetNode__CDefinition": {
         "fields": {
@@ -3400,10 +3400,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmCachedVectorNode__CDefinition": {
         "fields": {
@@ -3413,10 +3413,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmChainLookatNode__CDefinition": {
         "fields": {
@@ -3431,10 +3431,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmChainLookatTask": {
         "fields": {
@@ -3451,7 +3451,7 @@
           "m_nNumBonesInChain": 84
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmChainSolverTask": {
         "fields": {
@@ -3470,7 +3470,7 @@
           "m_targetTransform": 96
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmClip": {
         "fields": {
@@ -3494,10 +3494,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmClipNode__CDefinition": {
         "fields": {
@@ -3512,20 +3512,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmClipReferenceNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmClipSelectorNode__CDefinition": {
         "fields": {
@@ -3535,10 +3535,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmClip__ModelSpaceSamplingChainLink_t": {
         "fields": {
@@ -3549,10 +3549,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmConstBoolNode__CDefinition": {
         "fields": {
@@ -3561,10 +3561,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmConstFloatNode__CDefinition": {
         "fields": {
@@ -3573,10 +3573,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmConstIDNode__CDefinition": {
         "fields": {
@@ -3585,10 +3585,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmConstTargetNode__CDefinition": {
         "fields": {
@@ -3597,10 +3597,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmConstVectorNode__CDefinition": {
         "fields": {
@@ -3609,60 +3609,60 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmControlParameterBoolNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmControlParameterFloatNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmControlParameterIDNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmControlParameterTargetNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmControlParameterVectorNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmCurrentSyncEventIDNode__CDefinition": {
         "fields": {
@@ -3671,10 +3671,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmCurrentSyncEventNode__CDefinition": {
         "fields": {
@@ -3684,20 +3684,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmDurationScaleNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmEntityAttributeEventBase": {
         "fields": {
@@ -3706,10 +3706,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmEntityAttributeFloatEvent": {
         "fields": {
@@ -3718,10 +3718,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmEntityAttributeIntEvent": {
         "fields": {
@@ -3730,10 +3730,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmEvent": {
         "fields": {
@@ -3745,20 +3745,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmExternalGraphNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFixedWeightBoneMaskNode__CDefinition": {
         "fields": {
@@ -3767,10 +3767,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatAngleMathNode__CDefinition": {
         "fields": {
@@ -3780,10 +3780,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatClampNode__CDefinition": {
         "fields": {
@@ -3793,10 +3793,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatComparisonNode__CDefinition": {
         "fields": {
@@ -3809,10 +3809,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatCurveEvent": {
         "fields": {
@@ -3822,10 +3822,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatCurveEventNode__CDefinition": {
         "fields": {
@@ -3837,10 +3837,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatCurveNode__CDefinition": {
         "fields": {
@@ -3850,10 +3850,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatEaseNode__CDefinition": {
         "fields": {
@@ -3866,10 +3866,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatMathNode__CDefinition": {
         "fields": {
@@ -3883,10 +3883,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatRangeComparisonNode__CDefinition": {
         "fields": {
@@ -3897,10 +3897,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatRemapNode__CDefinition": {
         "fields": {
@@ -3911,10 +3911,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatRemapNode__RemapRange_t": {
         "fields": {
@@ -3924,10 +3924,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatSelectorNode__CDefinition": {
         "fields": {
@@ -3940,10 +3940,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatSwitchNode__CDefinition": {
         "fields": {
@@ -3956,15 +3956,15 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFloatValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmFollowBoneNode__CDefinition": {
         "fields": {
@@ -3976,15 +3976,15 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFollowBoneTask": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmFootEvent": {
         "fields": {
@@ -3993,10 +3993,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFootEventConditionNode__CDefinition": {
         "fields": {
@@ -4007,10 +4007,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFootstepEventIDNode__CDefinition": {
         "fields": {
@@ -4020,10 +4020,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFootstepEventPercentageThroughNode__CDefinition": {
         "fields": {
@@ -4034,10 +4034,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmFrameSnapEvent": {
         "fields": {
@@ -4046,10 +4046,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmGraphDefinition": {
         "fields": {
@@ -4068,10 +4068,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmGraphDefinition__ExternalGraphSlot_t": {
         "fields": {
@@ -4081,10 +4081,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmGraphDefinition__ReferencedGraphSlot_t": {
         "fields": {
@@ -4094,10 +4094,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmGraphEventConditionNode__CDefinition": {
         "fields": {
@@ -4108,10 +4108,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmGraphEventConditionNode__Condition_t": {
         "fields": {
@@ -4121,10 +4121,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmGraphNode__CDefinition": {
         "fields": {
@@ -4133,10 +4133,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIDComparisonNode__CDefinition": {
         "fields": {
@@ -4147,10 +4147,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIDEvent": {
         "fields": {
@@ -4160,10 +4160,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIDEventConditionNode__CDefinition": {
         "fields": {
@@ -4174,10 +4174,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIDEventNode__CDefinition": {
         "fields": {
@@ -4188,10 +4188,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIDEventPercentageThroughNode__CDefinition": {
         "fields": {
@@ -4202,10 +4202,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIDSelectorNode__CDefinition": {
         "fields": {
@@ -4216,10 +4216,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIDSwitchNode__CDefinition": {
         "fields": {
@@ -4232,10 +4232,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIDToFloatNode__CDefinition": {
         "fields": {
@@ -4247,15 +4247,15 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIDValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmIKBody": {
         "fields": {
@@ -4267,10 +4267,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIKEffector": {
         "fields": {
@@ -4283,10 +4283,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIKJoint": {
         "fields": {
@@ -4301,10 +4301,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIKRig": {
         "fields": {
@@ -4315,20 +4315,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIsInactiveBranchConditionNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmIsTargetSetNode__CDefinition": {
         "fields": {
@@ -4337,10 +4337,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmLayerBlendNode__CDefinition": {
         "fields": {
@@ -4351,10 +4351,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmLayerBlendNode__LayerDefinition_t": {
         "fields": {
@@ -4370,10 +4370,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmLegacyEvent": {
         "fields": {
@@ -4383,10 +4383,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmMaterialAttributeEvent": {
         "fields": {
@@ -4400,15 +4400,15 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmModelSpaceBlendTask": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmNotNode__CDefinition": {
         "fields": {
@@ -4417,10 +4417,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmOrNode__CDefinition": {
         "fields": {
@@ -4429,20 +4429,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmOrientationWarpEvent": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmOrientationWarpNode__CDefinition": {
         "fields": {
@@ -4455,15 +4455,15 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmOverlayBlendTask": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmParameterizedBlendNode__BlendRange_t": {
         "fields": {
@@ -4474,10 +4474,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmParameterizedBlendNode__CDefinition": {
         "fields": {
@@ -4488,10 +4488,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmParameterizedBlendNode__Parameterization_t": {
         "fields": {
@@ -4501,10 +4501,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmParameterizedClipSelectorNode__CDefinition": {
         "fields": {
@@ -4517,10 +4517,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmParameterizedSelectorNode__CDefinition": {
         "fields": {
@@ -4533,10 +4533,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmParticleEvent": {
         "fields": {
@@ -4557,10 +4557,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmPassthroughNode__CDefinition": {
         "fields": {
@@ -4569,35 +4569,35 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmPoseNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmPoseTask": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmReferencePoseNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmReferencePoseTask": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmReferencedGraphNode__CDefinition": {
         "fields": {
@@ -4607,10 +4607,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmRootMotionData": {
         "fields": {
@@ -4623,10 +4623,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmRootMotionEvent": {
         "fields": {
@@ -4635,10 +4635,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmRootMotionOverrideNode__CDefinition": {
         "fields": {
@@ -4653,15 +4653,15 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmSampleTask": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmScaleNode__CDefinition": {
         "fields": {
@@ -4671,15 +4671,15 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmScaleTask": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmSelectorNode__CDefinition": {
         "fields": {
@@ -4689,10 +4689,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmSkeleton": {
         "fields": {
@@ -4709,10 +4709,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmSkeleton__SecondarySkeleton_t": {
         "fields": {
@@ -4722,10 +4722,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmSoundEvent": {
         "fields": {
@@ -4740,10 +4740,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmSpeedScaleBaseNode__CDefinition": {
         "fields": {
@@ -4753,20 +4753,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmSpeedScaleNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmStateCompletedConditionNode__CDefinition": {
         "fields": {
@@ -4777,10 +4777,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmStateMachineNode__CDefinition": {
         "fields": {
@@ -4790,10 +4790,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmStateMachineNode__StateDefinition_t": {
         "fields": {
@@ -4804,10 +4804,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmStateMachineNode__TransitionDefinition_t": {
         "fields": {
@@ -4819,10 +4819,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmStateNode__CDefinition": {
         "fields": {
@@ -4841,10 +4841,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmStateNode__TimedEvent_t": {
         "fields": {
@@ -4855,10 +4855,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmSyncEventIndexConditionNode__CDefinition": {
         "fields": {
@@ -4869,10 +4869,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmSyncTrack": {
         "fields": {
@@ -4882,10 +4882,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmSyncTrack__EventMarker_t": {
         "fields": {
@@ -4895,10 +4895,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmSyncTrack__Event_t": {
         "fields": {
@@ -4909,10 +4909,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmTarget": {
         "fields": {
@@ -4926,10 +4926,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmTargetInfoNode__CDefinition": {
         "fields": {
@@ -4940,10 +4940,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmTargetOffsetNode__CDefinition": {
         "fields": {
@@ -4955,10 +4955,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmTargetPointNode__CDefinition": {
         "fields": {
@@ -4968,15 +4968,15 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmTargetValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmTargetWarpEvent": {
         "fields": {
@@ -4986,10 +4986,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmTargetWarpNode__CDefinition": {
         "fields": {
@@ -5006,10 +5006,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmTimeConditionNode__CDefinition": {
         "fields": {
@@ -5022,10 +5022,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmTransitionEvent": {
         "fields": {
@@ -5035,10 +5035,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmTransitionEventConditionNode__CDefinition": {
         "fields": {
@@ -5050,10 +5050,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmTransitionNode__CDefinition": {
         "fields": {
@@ -5072,10 +5072,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmTwoBoneIKNode__CDefinition": {
         "fields": {
@@ -5089,15 +5089,15 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmVectorCreateNode__CDefinition": {
         "fields": {
@@ -5109,10 +5109,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmVectorInfoNode__CDefinition": {
         "fields": {
@@ -5122,10 +5122,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmVectorNegateNode__CDefinition": {
         "fields": {
@@ -5134,35 +5134,35 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmVectorValueNode__CDefinition": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CNmVelocityBasedSpeedScaleNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmVelocityBlendNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmVirtualParameterBoneMaskNode__CDefinition": {
         "fields": {
@@ -5171,10 +5171,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmVirtualParameterBoolNode__CDefinition": {
         "fields": {
@@ -5183,10 +5183,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmVirtualParameterFloatNode__CDefinition": {
         "fields": {
@@ -5195,10 +5195,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmVirtualParameterIDNode__CDefinition": {
         "fields": {
@@ -5207,10 +5207,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmVirtualParameterTargetNode__CDefinition": {
         "fields": {
@@ -5219,10 +5219,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmVirtualParameterVectorNode__CDefinition": {
         "fields": {
@@ -5231,35 +5231,35 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmZeroPoseNode__CDefinition": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CNmZeroPoseTask": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "COrientConstraint": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "COrientationWarpUpdateNode": {
         "fields": {
@@ -5280,20 +5280,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPairedSequenceComponentUpdater": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPairedSequenceUpdateNode": {
         "fields": {
@@ -5302,10 +5302,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParamSpanUpdater": {
         "fields": {
@@ -5314,20 +5314,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParentConstraint": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParticleAnimTag": {
         "fields": {
@@ -5346,70 +5346,70 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParticleCollectionFloatInput": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyCustomEditor",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParticleCollectionRendererFloatInput": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyCustomEditor",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParticleCollectionRendererVecInput": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyCustomEditor",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParticleCollectionVecInput": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyCustomEditor",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParticleFloatInput": {
         "fields": {
@@ -5466,24 +5466,24 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MCustomFGDMetadata",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParticleInput": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParticleModelInput": {
         "fields": {
@@ -5494,37 +5494,37 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyCustomEditor",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MCustomFGDMetadata",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParticleProperty": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "CParticleRemapFloatInput": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyCustomEditor",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParticleTransformInput": {
         "fields": {
@@ -5540,18 +5540,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyCustomEditor",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MCustomFGDMetadata",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParticleVariableRef": {
         "fields": {
@@ -5561,14 +5561,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyCustomEditor",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CParticleVecInput": {
         "fields": {
@@ -5599,24 +5599,24 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MCustomFGDMetadata",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPathAnimMotorUpdater": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPathAnimMotorUpdaterBase": {
         "fields": {
@@ -5625,10 +5625,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPathHelperUpdateNode": {
         "fields": {
@@ -5638,10 +5638,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPathMetricEvaluator": {
         "fields": {
@@ -5653,38 +5653,38 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPerParticleFloatInput": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyCustomEditor",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPerParticleVecInput": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyCustomEditor",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPhysSurfaceProperties": {
         "fields": {
@@ -5701,10 +5701,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPhysSurfacePropertiesAudio": {
         "fields": {
@@ -5720,10 +5720,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPhysSurfacePropertiesPhysics": {
         "fields": {
@@ -5737,10 +5737,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPhysSurfacePropertiesSoundNames": {
         "fields": {
@@ -5760,10 +5760,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPhysSurfacePropertiesVehicle": {
         "fields": {
@@ -5773,10 +5773,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPlayerInputAnimMotorUpdater": {
         "fields": {
@@ -5790,20 +5790,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPointConstraint": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPoseHandle": {
         "fields": {
@@ -5813,10 +5813,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CProductQuantizer": {
         "fields": {
@@ -5826,10 +5826,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPulseGraphExecutionHistory": {
         "fields": {
@@ -5842,10 +5842,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPulseRuntimeMethodArg": {
         "fields": {
@@ -5856,10 +5856,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPulse_Chunk": {
         "fields": {
@@ -5870,10 +5870,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPulse_Constant": {
         "fields": {
@@ -5883,10 +5883,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPulse_DomainValue": {
         "fields": {
@@ -5897,10 +5897,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPulse_OutputConnection": {
         "fields": {
@@ -5912,10 +5912,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPulse_PublicOutput": {
         "fields": {
@@ -5926,10 +5926,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPulse_RegisterInfo": {
         "fields": {
@@ -5942,10 +5942,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CPulse_Variable": {
         "fields": {
@@ -5961,10 +5961,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CQuaternionAnimParameter": {
         "fields": {
@@ -5974,14 +5974,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CRagdollAnimTag": {
         "fields": {
@@ -5990,14 +5990,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CRagdollComponentUpdater": {
         "fields": {
@@ -6015,10 +6015,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CRagdollUpdateNode": {
         "fields": {
@@ -6028,10 +6028,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CRemapValueComponentUpdater": {
         "fields": {
@@ -6040,10 +6040,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CRemapValueUpdateItem": {
         "fields": {
@@ -6057,10 +6057,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CRenderBufferBinding": {
         "fields": {
@@ -6070,10 +6070,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CRenderGroom": {
         "fields": {
@@ -6095,10 +6095,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CRenderMesh": {
         "fields": {
@@ -6113,10 +6113,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CRenderSkeleton": {
         "fields": {
@@ -6127,20 +6127,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CRootUpdateNode": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSceneObjectData": {
         "fields": {
@@ -6154,10 +6154,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSelectorUpdateNode": {
         "fields": {
@@ -6175,10 +6175,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqAutoLayer": {
         "fields": {
@@ -6193,10 +6193,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqAutoLayerFlag": {
         "fields": {
@@ -6212,10 +6212,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqBoneMaskList": {
         "fields": {
@@ -6228,10 +6228,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqCmdLayer": {
         "fields": {
@@ -6248,10 +6248,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqCmdSeqDesc": {
         "fields": {
@@ -6271,10 +6271,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqIKLock": {
         "fields": {
@@ -6286,10 +6286,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqMultiFetch": {
         "fields": {
@@ -6307,10 +6307,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqMultiFetchFlag": {
         "fields": {
@@ -6324,10 +6324,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqPoseParamDesc": {
         "fields": {
@@ -6340,10 +6340,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqPoseSetting": {
         "fields": {
@@ -6359,10 +6359,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqS1SeqDesc": {
         "fields": {
@@ -6381,10 +6381,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqScaleSet": {
         "fields": {
@@ -6397,10 +6397,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqSeqDescFlag": {
         "fields": {
@@ -6419,10 +6419,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqSynthAnimDesc": {
         "fields": {
@@ -6436,10 +6436,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSeqTransition": {
         "fields": {
@@ -6449,10 +6449,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSequenceFinishedAnimTag": {
         "fields": {
@@ -6461,14 +6461,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSequenceGroupData": {
         "fields": {
@@ -6490,10 +6490,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSequenceTagSpans": {
         "fields": {
@@ -6503,10 +6503,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSequenceUpdateNode": {
         "fields": {
@@ -6518,10 +6518,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSequenceUpdateNodeBase": {
         "fields": {
@@ -6531,10 +6531,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSetParameterActionUpdater": {
         "fields": {
@@ -6544,10 +6544,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSingleFrameUpdateNode": {
         "fields": {
@@ -6559,10 +6559,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSlopeComponentUpdater": {
         "fields": {
@@ -6577,10 +6577,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSlowDownOnSlopesUpdateNode": {
         "fields": {
@@ -6589,10 +6589,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSolveIKChainUpdateNode": {
         "fields": {
@@ -6602,10 +6602,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSolveIKTargetHandle_t": {
         "fields": {
@@ -6615,10 +6615,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSpeedScaleUpdateNode": {
         "fields": {
@@ -6627,10 +6627,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CStanceOverrideUpdateNode": {
         "fields": {
@@ -6642,10 +6642,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CStanceScaleUpdateNode": {
         "fields": {
@@ -6654,10 +6654,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CStateActionUpdater": {
         "fields": {
@@ -6667,10 +6667,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CStateMachineComponentUpdater": {
         "fields": {
@@ -6679,10 +6679,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CStateMachineUpdateNode": {
         "fields": {
@@ -6696,10 +6696,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CStateNodeStateData": {
         "fields": {
@@ -6710,10 +6710,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CStateNodeTransitionData": {
         "fields": {
@@ -6726,10 +6726,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CStateUpdateData": {
         "fields": {
@@ -6747,10 +6747,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CStaticPoseCache": {
         "fields": {
@@ -6761,20 +6761,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CStaticPoseCacheBuilder": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CStepsRemainingMetricEvaluator": {
         "fields": {
@@ -6784,10 +6784,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CStopAtGoalUpdateNode": {
         "fields": {
@@ -6800,24 +6800,24 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CStringAnimTag": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSubtractUpdateNode": {
         "fields": {
@@ -6829,10 +6829,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSymbolAnimParameter": {
         "fields": {
@@ -6841,14 +6841,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CTargetSelectorUpdateNode": {
         "fields": {
@@ -6866,10 +6866,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CTargetWarpUpdateNode": {
         "fields": {
@@ -6891,38 +6891,38 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CTaskHandshakeAnimTag": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CTaskStatusAnimTag": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CTiltTwistConstraint": {
         "fields": {
@@ -6932,10 +6932,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CTimeRemainingMetricEvaluator": {
         "fields": {
@@ -6947,10 +6947,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CToggleComponentActionUpdater": {
         "fields": {
@@ -6960,10 +6960,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CTransitionUpdateData": {
         "fields": {
@@ -6975,10 +6975,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CTurnHelperUpdateNode": {
         "fields": {
@@ -6992,10 +6992,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CTwistConstraint": {
         "fields": {
@@ -7006,10 +7006,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CTwoBoneIKUpdateNode": {
         "fields": {
@@ -7018,10 +7018,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CUnaryUpdateNode": {
         "fields": {
@@ -7030,10 +7030,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVPhysXSurfacePropertiesList": {
         "fields": {
@@ -7042,10 +7042,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVectorAnimParameter": {
         "fields": {
@@ -7056,14 +7056,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVectorQuantizer": {
         "fields": {
@@ -7074,10 +7074,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVirtualAnimParameter": {
         "fields": {
@@ -7087,10 +7087,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CWarpSectionAnimTag": {
         "fields": {
@@ -7100,24 +7100,24 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CWarpSectionAnimTagBase": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CWayPointHelperUpdateNode": {
         "fields": {
@@ -7130,20 +7130,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CZeroPoseUpdateNode": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "ChainToSolveData_t": {
         "fields": {
@@ -7157,10 +7157,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "ConfigIndex": {
         "fields": {
@@ -7170,10 +7170,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "DynamicMeshDeformParams_t": {
         "fields": {
@@ -7186,10 +7186,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "FollowAttachmentData": {
         "fields": {
@@ -7199,10 +7199,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "FollowAttachmentSettings_t": {
         "fields": {
@@ -7215,10 +7215,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "FollowTargetOpFixedSettings_t": {
         "fields": {
@@ -7231,10 +7231,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "FootFixedData_t": {
         "fields": {
@@ -7253,10 +7253,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "FootFixedSettings": {
         "fields": {
@@ -7274,10 +7274,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "FootLockPoseOpFixedSettings": {
         "fields": {
@@ -7303,10 +7303,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "FootPinningPoseOpFixedData_t": {
         "fields": {
@@ -7321,10 +7321,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "FootStepTrigger": {
         "fields": {
@@ -7335,17 +7335,17 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "HSequence": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "HitReactFixedSettings_t": {
         "fields": {
@@ -7370,17 +7370,17 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "IKBoneNameAndIndex_t": {
         "fields": {
           "m_Name": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "IKDemoCaptureSettings_t": {
         "fields": {
@@ -7393,10 +7393,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "IKSolverSettings_t": {
         "fields": {
@@ -7405,7 +7405,7 @@
           "m_nNumIterations": 4
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "IKTargetSettings_t": {
         "fields": {
@@ -7416,12 +7416,12 @@
           "m_TargetSource": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "IParticleEffect": {
         "fields": {},
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "JiggleBoneSettingsList_t": {
         "fields": {
@@ -7430,10 +7430,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "JiggleBoneSettings_t": {
         "fields": {
@@ -7448,10 +7448,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "LookAtBone_t": {
         "fields": {
@@ -7461,10 +7461,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "LookAtOpFixedSettings_t": {
         "fields": {
@@ -7483,10 +7483,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MaterialGroup_t": {
         "fields": {
@@ -7496,10 +7496,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "ModelBoneFlexDriverControl_t": {
         "fields": {
@@ -7512,10 +7512,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "ModelBoneFlexDriver_t": {
         "fields": {
@@ -7526,10 +7526,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "ModelEmbeddedMesh_t": {
         "fields": {
@@ -7546,10 +7546,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "ModelMeshBufferData_t": {
         "fields": {
@@ -7568,10 +7568,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "ModelSkeletonData_t": {
         "fields": {
@@ -7586,10 +7586,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MoodAnimationLayer_t": {
         "fields": {
@@ -7609,14 +7609,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyArrayElementNameKey",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MoodAnimation_t": {
         "fields": {
@@ -7626,14 +7626,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyArrayElementNameKey",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MotionBlendItem": {
         "fields": {
@@ -7643,10 +7643,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MotionDBIndex": {
         "fields": {
@@ -7655,10 +7655,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MotionIndex": {
         "fields": {
@@ -7668,10 +7668,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "MovementGaitId_t": {
         "fields": {
@@ -7680,10 +7680,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "NmBoneMaskSetDefinition_t": {
         "fields": {
@@ -7694,10 +7694,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "NmCompressionSettings_t": {
         "fields": {
@@ -7713,10 +7713,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "NmCompressionSettings_t__QuantizationRange_t": {
         "fields": {
@@ -7726,10 +7726,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "NmFloatCurveCompressionSettings_t": {
         "fields": {
@@ -7739,10 +7739,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "NmPercent_t": {
         "fields": {
@@ -7751,10 +7751,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "NmSyncTrackTimeRange_t": {
         "fields": {
@@ -7764,10 +7764,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "NmSyncTrackTime_t": {
         "fields": {
@@ -7777,17 +7777,17 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PARTICLE_EHANDLE__": {
         "fields": {
           "unused": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PGDInstruction_t": {
         "fields": {
@@ -7807,10 +7807,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "ParamSpanSample_t": {
         "fields": {
@@ -7820,10 +7820,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "ParamSpan_t": {
         "fields": {
@@ -7836,10 +7836,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "ParticleNamedValueConfiguration_t": {
         "fields": {
@@ -7853,10 +7853,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "ParticleNamedValueSource_t": {
         "fields": {
@@ -7868,10 +7868,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PermModelDataAnimatedMaterialAttribute_t": {
         "fields": {
@@ -7881,10 +7881,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PermModelData_t": {
         "fields": {
@@ -7915,10 +7915,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PermModelExtPart_t": {
         "fields": {
@@ -7930,10 +7930,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PermModelInfo_t": {
         "fields": {
@@ -7951,10 +7951,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PhysShapeMarkup_t": {
         "fields": {
@@ -7965,10 +7965,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PhysSoftbodyDesc_t": {
         "fields": {
@@ -7982,31 +7982,31 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PulseCursorID_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseCursorYieldToken_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseDocNodeID_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseGraphExecutionHistoryCursorDesc_t": {
         "fields": {
@@ -8019,10 +8019,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PulseGraphExecutionHistoryEntry_t": {
         "fields": {
@@ -8035,10 +8035,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PulseGraphExecutionHistoryNodeDesc_t": {
         "fields": {
@@ -8048,17 +8048,17 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "PulseGraphInstanceID_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseRegisterMap_t": {
         "fields": {
@@ -8067,91 +8067,91 @@
           "m_Outparams": 32
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseRuntimeBlackboardReferenceIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseRuntimeCallInfoIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseRuntimeCellIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseRuntimeChunkIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseRuntimeConstantIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseRuntimeDomainValueIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseRuntimeEntrypointIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseRuntimeInvokeIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseRuntimeOutputIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseRuntimeRegisterIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseRuntimeStateOffset_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "PulseRuntimeVarIndex_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "RenderHairStrandInfo_t": {
         "fields": {
@@ -8166,10 +8166,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "RenderSkeletonBone_t": {
         "fields": {
@@ -8182,10 +8182,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SampleCode": {
         "fields": {
@@ -8194,10 +8194,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "ScriptInfo_t": {
         "fields": {
@@ -8210,10 +8210,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SkeletonAnimCapture_t": {
         "fields": {
@@ -8231,10 +8231,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SkeletonAnimCapture_t__Bone_t": {
         "fields": {
@@ -8245,10 +8245,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SkeletonAnimCapture_t__Camera_t": {
         "fields": {
@@ -8258,10 +8258,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SkeletonAnimCapture_t__FrameStamp_t": {
         "fields": {
@@ -8277,10 +8277,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SkeletonAnimCapture_t__Frame_t": {
         "fields": {
@@ -8297,10 +8297,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SkeletonBoneBounds_t": {
         "fields": {
@@ -8310,10 +8310,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SkeletonDemoDb_t": {
         "fields": {
@@ -8324,10 +8324,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SolveIKChainPoseOpFixedSettings_t": {
         "fields": {
@@ -8336,10 +8336,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "StanceInfo_t": {
         "fields": {
@@ -8349,10 +8349,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "TagSpan_t": {
         "fields": {
@@ -8363,10 +8363,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "TraceSettings_t": {
         "fields": {
@@ -8376,10 +8376,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "TwoBoneIKSettings_t": {
         "fields": {
@@ -8402,10 +8402,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VPhysXAggregateData_t": {
         "fields": {
@@ -8430,10 +8430,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VPhysXBodyPart_t": {
         "fields": {
@@ -8453,10 +8453,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VPhysXCollisionAttributes_t": {
         "fields": {
@@ -8472,10 +8472,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VPhysXConstraint2_t": {
         "fields": {
@@ -8487,10 +8487,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VPhysXConstraintParams_t": {
         "fields": {
@@ -8544,10 +8544,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VPhysXJoint_t": {
         "fields": {
@@ -8585,10 +8585,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VPhysXRange_t": {
         "fields": {
@@ -8598,10 +8598,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VPhysics2ShapeDef_t": {
         "fields": {
@@ -8614,10 +8614,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "WeightList": {
         "fields": {
@@ -8627,10 +8627,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       }
     },
     "enums": {}

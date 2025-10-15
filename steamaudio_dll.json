@@ -8,10 +8,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSteamAudioBakedDimensionsData": {
         "fields": {
@@ -25,10 +25,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSteamAudioBakedMaterialsData": {
         "fields": {
@@ -39,10 +39,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSteamAudioBakedOcclusionData": {
         "fields": {
@@ -55,10 +55,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSteamAudioBakedPathingData": {
         "fields": {
@@ -68,10 +68,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSteamAudioBakedReverbData": {
         "fields": {
@@ -96,10 +96,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSteamAudioCompressedReverb": {
         "fields": {
@@ -115,10 +115,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSteamAudioProbeData": {
         "fields": {
@@ -127,10 +127,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSteamAudioProbeGrid": {
         "fields": {
@@ -145,10 +145,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSteamAudioProbeLineSegment": {
         "fields": {
@@ -160,10 +160,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SteamAudioCustomDataDimensionsSettings_t": {
         "fields": {
@@ -176,10 +176,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SteamAudioCustomDataOcclusionSettings_t": {
         "fields": {
@@ -191,10 +191,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SteamAudioPathSettings_t": {
         "fields": {
@@ -206,10 +206,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SteamAudioReverbClusteringSettings_t": {
         "fields": {
@@ -220,10 +220,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SteamAudioReverbCompressionSettings_t": {
         "fields": {
@@ -232,10 +232,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SteamAudioReverbSettings_t": {
         "fields": {
@@ -247,10 +247,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       }
     },
     "enums": {}

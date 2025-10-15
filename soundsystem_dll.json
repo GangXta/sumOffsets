@@ -9,10 +9,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAudioMorphData": {
         "fields": {
@@ -26,10 +26,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAudioPhonemeTag": {
         "fields": {
@@ -40,10 +40,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CAudioSentence": {
         "fields": {
@@ -55,10 +55,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDSPMixgroupModifier": {
         "fields": {
@@ -72,10 +72,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDSPPresetMixgroupModifierTable": {
         "fields": {
@@ -84,14 +84,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MVDataNodeType",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CDspPresetModifierList": {
         "fields": {
@@ -101,10 +101,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionLimitSchema": {
         "fields": {
@@ -117,14 +117,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionMemberCountEnvelopeSchema": {
         "fields": {
@@ -140,24 +140,24 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionSchema": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionSetSoundeventParameterSchema": {
         "fields": {
@@ -170,14 +170,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionSoundeventClusterSchema": {
         "fields": {
@@ -192,14 +192,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionSoundeventCountSchema": {
         "fields": {
@@ -209,14 +209,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionSoundeventMinMaxValuesSchema": {
         "fields": {
@@ -234,14 +234,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionSoundeventPrioritySchema": {
         "fields": {
@@ -253,14 +253,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionTimeBlockLimitSchema": {
         "fields": {
@@ -270,14 +270,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosGroupActionTimeLimitSchema": {
         "fields": {
@@ -286,14 +286,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSosSoundEventGroupSchema": {
         "fields": {
@@ -317,10 +317,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSoundContainerReference": {
         "fields": {
@@ -331,18 +331,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSoundContainerReferenceArray": {
         "fields": {
@@ -353,18 +353,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSoundEventMetaData": {
         "fields": {
@@ -373,20 +373,20 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSoundInfoHeader": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CTestBlendContainer": {
         "fields": {
@@ -396,18 +396,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVSound": {
         "fields": {
@@ -426,10 +426,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerAmpedDecayingSineWave": {
         "fields": {
@@ -438,18 +438,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerAnalysisBase": {
         "fields": {
@@ -459,22 +459,22 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MVDataNodeType",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerBase": {
         "fields": {
@@ -484,26 +484,26 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MVDataNodeType",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MVDataFileExtension",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerBlender": {
         "fields": {
@@ -514,18 +514,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerDecayingSineWave": {
         "fields": {
@@ -535,36 +535,36 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerDefault": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerEnvelope": {
         "fields": {
@@ -574,18 +574,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerEnvelopeAnalyzer": {
         "fields": {
@@ -596,18 +596,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerGranulator": {
         "fields": {
@@ -621,14 +621,14 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerLoopTrigger": {
         "fields": {
@@ -641,36 +641,36 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
-      "CVoiceContainer0": {
+      "CVoiceContainerNull": {
         "fields": {},
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerParameterBlender": {
         "fields": {
@@ -686,18 +686,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerRandomSampler": {
         "fields": {
@@ -711,18 +711,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerRealtimeFMSineWave": {
         "fields": {
@@ -733,18 +733,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerSelector": {
         "fields": {
@@ -755,18 +755,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerSet": {
         "fields": {
@@ -775,18 +775,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerSetElement": {
         "fields": {
@@ -796,10 +796,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerShapedNoise": {
         "fields": {
@@ -816,18 +816,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerStaticAdditiveSynth": {
         "fields": {
@@ -836,18 +836,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerStaticAdditiveSynth__CGainScalePerInstance": {
         "fields": {
@@ -859,10 +859,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerStaticAdditiveSynth__CHarmonic": {
         "fields": {
@@ -877,10 +877,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerStaticAdditiveSynth__CTone": {
         "fields": {
@@ -891,10 +891,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CVoiceContainerSwitch": {
         "fields": {
@@ -903,18 +903,18 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyFriendlyName",
-            "type": int
+            "type": "int"
           },
           {
             "name": "MPropertyDescription",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SelectedEditItemInfo_t": {
         "fields": {
@@ -923,10 +923,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "SosEditItemInfo_t": {
         "fields": {
@@ -939,10 +939,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixAutoFilterDesc_t": {
         "fields": {
@@ -958,10 +958,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixBoxverb2Desc_t": {
         "fields": {
@@ -986,10 +986,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixBoxverbDesc_t": {
         "fields": {
@@ -1014,10 +1014,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixConvolutionDesc_t": {
         "fields": {
@@ -1033,10 +1033,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDelayDesc_t": {
         "fields": {
@@ -1051,10 +1051,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDiffusorDesc_t": {
         "fields": {
@@ -1066,10 +1066,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDualCompressorDesc_t": {
         "fields": {
@@ -1082,10 +1082,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDynamics3BandDesc_t": {
         "fields": {
@@ -1103,10 +1103,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDynamicsBand_t": {
         "fields": {
@@ -1124,10 +1124,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDynamicsCompressorDesc_t": {
         "fields": {
@@ -1144,10 +1144,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixDynamicsDesc_t": {
         "fields": {
@@ -1167,10 +1167,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixEQ8Desc_t": {
         "fields": {
@@ -1179,10 +1179,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixEffectChainDesc_t": {
         "fields": {
@@ -1191,10 +1191,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixEnvelopeDesc_t": {
         "fields": {
@@ -1205,10 +1205,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixFilterDesc_t": {
         "fields": {
@@ -1222,10 +1222,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixFreeverbDesc_t": {
         "fields": {
@@ -1237,10 +1237,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixModDelayDesc_t": {
         "fields": {
@@ -1257,10 +1257,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixOscDesc_t": {
         "fields": {
@@ -1271,10 +1271,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixPannerDesc_t": {
         "fields": {
@@ -1284,10 +1284,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixPitchShiftDesc_t": {
         "fields": {
@@ -1299,10 +1299,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixPlateverbDesc_t": {
         "fields": {
@@ -1317,10 +1317,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixShaperDesc_t": {
         "fields": {
@@ -1333,10 +1333,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixSubgraphSwitchDesc_t": {
         "fields": {
@@ -1347,10 +1347,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixUtilityDesc_t": {
         "fields": {
@@ -1364,10 +1364,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "VMixVocoderDesc_t": {
         "fields": {
@@ -1385,10 +1385,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       }
     },
     "enums": {}

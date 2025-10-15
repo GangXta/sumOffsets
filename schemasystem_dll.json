@@ -9,10 +9,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CExampleSchemaVData_PolymorphicBase": {
         "fields": {
@@ -21,10 +21,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CExampleSchemaVData_PolymorphicDerivedA": {
         "fields": {
@@ -33,10 +33,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CExampleSchemaVData_PolymorphicDerivedB": {
         "fields": {
@@ -45,10 +45,10 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "CSchemaSystemInternalRegistration": {
         "fields": {
@@ -77,24 +77,24 @@
           "m_stringTokenWithStorage": 328
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       },
       "InfoForResourceTypeCResourceManifestInternal": {
         "fields": {},
         "metadata": [
           {
             "name": "MResourceTypeForInfoType",
-            "type": int
+            "type": "int"
           }
         ],
-        "parent": 0
+        "parent": null
       },
       "ResourceId_t": {
         "fields": {
           "m_Value": 0
         },
         "metadata": [],
-        "parent": 0
+        "parent": null
       }
     },
     "enums": {}
