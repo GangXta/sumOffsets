@@ -9,7 +9,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -23,7 +23,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -46,7 +46,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -67,7 +67,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -79,7 +79,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -101,7 +101,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -115,7 +115,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -127,7 +127,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -151,7 +151,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -173,7 +173,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -187,7 +187,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -206,7 +206,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -219,7 +219,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -234,7 +234,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -244,7 +244,7 @@
         "metadata": [
           {
             "name": "MResourceTypeForInfoType",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -259,7 +259,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -277,7 +277,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -291,7 +291,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -316,7 +316,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -334,7 +334,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -351,7 +351,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -366,7 +366,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -391,7 +391,7 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
@@ -406,107 +406,43 @@
         "metadata": [
           {
             "name": "MGetKV3ClassDefaults",
-            "type": "int"
+            "type": "Unknown"
           }
         ],
         "parent": null
       }
     },
     "enums": {
-      "CParticleBindingRealPulse": {
+      "AggregateInstanceStream_t": {
         "alignment": 1,
-        "members": {},
+        "members": {
+          "AGGREGATE_INSTANCE_STREAM_LIGHTMAPUV_UNORM16": 1,
+          "AGGREGATE_INSTANCE_STREAM_NONE": 0,
+          "AGGREGATE_INSTANCE_STREAM_VERTEXBLEND_UNORM8": 4,
+          "AGGREGATE_INSTANCE_STREAM_VERTEXTINT_UNORM8": 2
+        },
         "type": "uint8"
       },
-      "CParticleCollectionBindingInstance": {
-        "alignment": 1,
-        "members": {},
-        "type": "uint8"
-      },
-      "CPulseCell_BaseState": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "CPulseCell_BaseValue": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "CPulseCell_CursorQueue": {
-        "alignment": 0,
+      "ObjectTypeFlags_t": {
+        "alignment": 4,
         "members": {
-          "": 0
+          "OBJECT_TYPE_BAKED_GEOMETRY": 131072,
+          "OBJECT_TYPE_BLOCK_LIGHT": 16,
+          "OBJECT_TYPE_DISABLED_IN_LOW_QUALITY": 128,
+          "OBJECT_TYPE_DISABLE_VIS_CULLING": 65536,
+          "OBJECT_TYPE_MODEL": 8,
+          "OBJECT_TYPE_MODEL_HAS_LODS": 2048,
+          "OBJECT_TYPE_NONE": 0,
+          "OBJECT_TYPE_NO_SHADOWS": 32,
+          "OBJECT_TYPE_NO_SUN_SHADOWS": 256,
+          "OBJECT_TYPE_OVERLAY": 8192,
+          "OBJECT_TYPE_PRECOMPUTED_VISMEMBERS": 16384,
+          "OBJECT_TYPE_RENDER_TO_CUBEMAPS": 1024,
+          "OBJECT_TYPE_RENDER_WITH_DYNAMIC": 512,
+          "OBJECT_TYPE_STATIC_CUBE_MAP": 32768,
+          "OBJECT_TYPE_WORLDSPACE_TEXURE_BLEND": 64
         },
-        "type": "unknown"
-      },
-      "CPulseCell_Inflow_EventHandler": {
-        "alignment": 0,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
-      },
-      "CPulseCell_LimitCount": {
-        "alignment": 0,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
-      },
-      "CPulseCell_LimitCount__Criteria_t": {
-        "alignment": 0,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
-      },
-      "CPulseCell_Outflow_CycleOrdered__InstanceState_t": {
-        "alignment": 0,
-        "members": {
-          "": 281474976710656
-        },
-        "type": "unknown"
-      },
-      "CPulseCell_Outflow_CycleShuffled": {
-        "alignment": 0,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
-      },
-      "CPulseCell_Outflow_CycleShuffled__InstanceState_t": {
-        "alignment": 0,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
-      },
-      "CPulseCell_Timeline": {
-        "alignment": 0,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
-      },
-      "CPulseCell_Timeline__TimelineEvent_t": {
-        "alignment": 0,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
-      },
-      "CPulseCell_Unknown": {
-        "alignment": 0,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
-      },
-      "CPulseTestScriptLib": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
+        "type": "uint32"
       }
     }
   }
