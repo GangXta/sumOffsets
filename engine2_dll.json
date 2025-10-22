@@ -347,6 +347,15 @@
         "parent": null
       }
     },
-    "enums": {}
+    "enums": {
+      "_": {
+        "alignment": 49,
+        "members": {
+          "": 62111766804819,
+          "tR": 2496614448126
+        },
+        "type": "unknown"
+      }
+    }
   }
 }
